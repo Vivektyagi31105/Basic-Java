@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class helloWorld
 {
     public static void main (String args[]){
@@ -6,8 +7,6 @@ public class helloWorld
        System.out.print("Hello World");
         System.out.println("Hello World");
 
-
-        
 
     }
 
