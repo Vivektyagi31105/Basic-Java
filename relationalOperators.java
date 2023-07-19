@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class relationalOperators {
     public static void main(String[] args) {
         int a= 100;
