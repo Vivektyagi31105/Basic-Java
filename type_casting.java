@@ -1,7 +1,5 @@
 import java.util.*;
-/**
- * type_casting
- */
+
 public class type_casting {
 
     public static void main(String[] args) {
