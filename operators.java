@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class oprators {
     public static void main(String[] args) {
         int num1= 50;
