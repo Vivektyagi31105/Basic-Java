@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class switch_case {
+    
     public static void main(String[] args) {
         int num= 500;
         
