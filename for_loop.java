@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class for_loop {
     public static void main(String[] args) {
         for(int i=90; i<=100; i++){
