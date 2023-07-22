@@ -11,6 +11,7 @@ public class input_output {
         System.out.println(num1/2);
 
         // System.out.println(num1);
+        
         // System.out.println("num1");
 
         scn.close();
