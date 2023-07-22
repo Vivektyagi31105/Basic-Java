@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class logicalOperators {
     public static void main(String[] args) {
         //  || - OR operators = if one condition is true from two or more condition 
