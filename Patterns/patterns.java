@@ -1,6 +1,6 @@
-package Patterns;
 
 import java.util.*;
+
 public class patterns {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
