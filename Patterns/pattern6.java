@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class pattern6 {
+public class pattern_6 {
     public static void main(String[] args) {
         int n=5;
         int  space = 0;
