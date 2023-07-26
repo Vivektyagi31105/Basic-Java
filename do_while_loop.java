@@ -7,6 +7,7 @@ public class do_while_loop {
         do{
           System.out.println("*");
          i++;
+            
         }while(i<20);
     }
 }
