@@ -2,6 +2,7 @@ import java.util.*;
 
 public class pattern_6 {
     public static void main(String[] args) {
+        
         int n=5;
         int  space = 0;
          int star = n;
