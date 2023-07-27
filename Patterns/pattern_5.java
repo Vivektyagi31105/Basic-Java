@@ -17,6 +17,7 @@ public class pattern_5 {
             System.out.println();
         space--;
         star++;
+            
         }
   
     }
