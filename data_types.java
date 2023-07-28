@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class data_types {
+    
     public static void main(String[] args) {
         
         int x= 10;
