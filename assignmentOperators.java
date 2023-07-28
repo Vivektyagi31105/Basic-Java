@@ -10,6 +10,7 @@ public class assignmentOperators {
         j+=1;
 
         System.out.println(j);
+        
         System.out.println(i+=5);
         System.out.println(i-=3);
         System.out.println(j*=2);
