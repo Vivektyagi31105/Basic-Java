@@ -2,6 +2,7 @@ import java.util.*;
 
 public class increment_decrement{
     public static void main(String args[]){
+        
         // Scanner scn = new Scanner(System.in);
         // System.out.println("Input number:");
         // int num1 = scn.nextInt();
