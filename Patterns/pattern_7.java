@@ -7,6 +7,7 @@ public class pattern_7 {
           int n = scn.nextInt();
 
         int nspaces = n / 2;
+        // number of stars
         int nstars = 1;
         
         for (int i = 1; i <= n; i++) {
