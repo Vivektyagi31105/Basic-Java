@@ -2,6 +2,7 @@ import java.util.*;
 
 public class if_else_condition {
     public static void main(String[] args) {
+        
         int a=234;
         int b= 232438;
 
