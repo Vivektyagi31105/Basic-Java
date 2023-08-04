@@ -6,6 +6,7 @@ public class pattern_7 {
            Scanner scn = new Scanner(System.in);
           int n = scn.nextInt();
 
+        // number of spaces
         int nspaces = n / 2;
         // number of stars
         int nstars = 1;
