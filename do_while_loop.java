@@ -10,5 +10,6 @@ public class do_while_loop {
          i++;
             
         }while(i<20);
+        
     }
 }
