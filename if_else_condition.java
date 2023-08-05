@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class if_else_condition {
+public class if_else_conditions {
     public static void main(String[] args) {
         
         int a=234;
