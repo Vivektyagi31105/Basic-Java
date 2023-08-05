@@ -23,7 +23,7 @@ public class for_loop {
         System.out.println("----------");
 
         for(int i=15; i>=2; i--){
-    System.out.println(i);
+       System.out.println(i);
      }
     //  reverse
         for(int i=15; i>=2; i--){
