@@ -9,6 +9,7 @@ public class relationalOperators {
         System.out.println(a<b);
         System.out.println(a>b);
         System.out.println(a>=b);
+        
         System.out.println(a<=b);
         System.out.println(a!=b);
         System.out.println(a==b);
