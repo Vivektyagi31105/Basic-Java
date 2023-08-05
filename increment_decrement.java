@@ -26,6 +26,7 @@ public class increment_decrement{
      System.out.println(j--);
      System.out.println(--j);
      System.out.println(++j);
+        
      System.out.println(j--);
      System.out.println(j--);
      System.out.println(--j);
