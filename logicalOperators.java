@@ -27,5 +27,6 @@ public class logicalOperators {
         }else{
             System.out.println("No");
         }
+        
     }
 }
