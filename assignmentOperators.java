@@ -15,5 +15,6 @@ public class assignmentOperators {
         System.out.println(i-=3);
         System.out.println(j*=2);
         System.out.println(i/=2);
+        
     }
 }
